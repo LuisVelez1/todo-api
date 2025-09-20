@@ -42,6 +42,6 @@ ToDo-API/
 │   │   │   └── ToDoApiApplication.java
 │   │   └── resources/
 │   │       ├── application.properties
-│   │       └── schema.sql / data.sql (optional)
+│   │       └── schema.sql
 │── pom.xml
 └── README.md
